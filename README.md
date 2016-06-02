@@ -2,6 +2,7 @@ GetDev
 ====
 
 getdevucr.herokuapp.com
+
 ![alt text](http://i.imgur.com/WLXxM3V.png "Example")
 
 Overview
@@ -26,21 +27,27 @@ Dependencies
 ---
 
 * Sunspot Solr
+
 Backend API that allows search functionality
 
 
 * RatyRate
+
 Backend plugin that enables rating functionality
 
 * Brypt
+
 Backend plugin that encrypts user account passwords
 
 * CarrierWave / MiniMagick
+
 Backend plugin that allows user profile image uploading
 
 * Stripe
+
 Backend API that enables payment processing
 
 
 * Materialize CSS
+
 Frontend framework based on Material Design
